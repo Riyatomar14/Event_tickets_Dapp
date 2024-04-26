@@ -85,6 +85,7 @@ npx hardhat node
 ```
 npx hardhat scripts/deploy.js --network local 
 ```
+![Screenshot 2024-04-26 130746](https://github.com/Riyatomar14/Event_tickets_Dapp/assets/143107173/de858d77-3e8b-46ff-85aa-c6236bba81bd)
 
 ```
 npm start
@@ -96,6 +97,7 @@ npm start
 * 8. now set up your app.js for frontend
 
  https://github.com/Riyatomar14/Event_tickets_Dapp/blob/main/App.js
+![Screenshot 2024-04-26 130847](https://github.com/Riyatomar14/Event_tickets_Dapp/assets/143107173/88e98c27-ea71-4bcc-b091-b29777c9864c)
 
  ![Screenshot 2024-04-25 220631](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/c93a2fb4-f55d-4fa2-9e3e-1ad7a8eaeb64) 
 
