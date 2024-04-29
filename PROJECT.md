@@ -92,10 +92,17 @@ npm start
 ```
 ![Screenshot 2024-04-26 123702](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/aff57bfa-2d57-4e2e-9be0-43bf1e81fd93)
 ![Screenshot 2024-04-25 210523](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/87b4717c-6f06-4207-a7da-2cfe8dc2b77b)
-![Screenshot 2024-04-25 212212](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/d85ee351-9540-4acf-b000-06948ef19a82)
+![Screenshot 2024-04-27 100533](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/55b7491e-a3b7-4b69-bf2a-7161e78fd819)
+![Screenshot 2024-04-27 100810](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/ba5b5199-e0b0-4051-b0a4-ebdbe202f680)
+![Screenshot 2024-04-27 103147](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/ee78a392-e40c-4aca-9064-9feb94867eec)
+![Screenshot 2024-04-27 103704](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/1f18d6a3-3d7b-43fe-b5b1-4e709dfbfd96)
+![Screenshot 2024-04-27 104659](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/d1acf691-4bff-474e-952b-138a28c88d8b)
+![Screenshot 2024-04-27 112855](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/fb33df81-e574-4175-a460-71ca00638696)
+
 
 * 8. now set up your app.js for frontend
 
+![Screenshot 2024-04-25 212212](https://github.com/Riyatomar14/Paypal-clone-project-hardhat/assets/143107173/d85ee351-9540-4acf-b000-06948ef19a82)
  https://github.com/Riyatomar14/Event_tickets_Dapp/blob/main/App.js
 ![Screenshot 2024-04-26 130847](https://github.com/Riyatomar14/Event_tickets_Dapp/assets/143107173/88e98c27-ea71-4bcc-b091-b29777c9864c)
 
